@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6c7KJovE71sn/MxJs2LuotvtFzYgW2gfu/w27mTQstswx1ewQS3OB6XWOn3BS4kLCeWVOWrzXGzWN0iCF8Tv2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\EstructurasDeDatos\\EstructurasDeDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

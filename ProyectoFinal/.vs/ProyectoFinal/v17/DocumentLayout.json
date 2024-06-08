@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\pc\\desktop\\proyectofinal\\proyectofinal\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\PC\\Desktop\\ProyectoFinal\\proyectofinal\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\PC\\Desktop\\ProyectoFinal\\proyectofinal\\partido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\partido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\PC\\Desktop\\ProyectoFinal\\proyectofinal\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\PC\\Desktop\\ProyectoFinal\\proyectofinal\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\PC\\Desktop\\ProyectoFinal\\proyectofinal\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826872F4-8347-4127-BCD5-EB66836CFC84}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Partido.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Partido.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Partido.Designer.cs",
+              "RelativeToolTip": "ProyectoFinal\\Partido.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:03:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Partido.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Partido.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Partido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Partido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:57:28.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Equipo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Equipo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Equipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Equipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:45:52.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Jugador.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Jugador.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Jugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Jugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:27:28.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Campeonato.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Campeonato.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Campeonato.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Campeonato.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\Campeonato.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:26:43.982Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Campeonato.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Campeonato.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Campeonato.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ProyectoFinal\\ProyectoFinal\\Campeonato.cs",
+              "RelativeToolTip": "ProyectoFinal\\Campeonato.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vx0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:56:08.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
